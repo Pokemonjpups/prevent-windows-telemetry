@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "checkJs": true
+    },
+    "typeAcquisition": {
+        "include": [
+            "./types",
+            "./node_modules/"
+        ]
+    }
+}
